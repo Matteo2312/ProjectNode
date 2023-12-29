@@ -71,7 +71,7 @@ const sqlQuery_id = `SELECT * FROM projet_final.new_table WHERE id = ${sujetId};
 //By exa center :
 const sqlQuery_France = "SELECT * FROM projet_final.new_table WHERE centreExamen LIKE '%France%';";
 const sqlQuery_Polynesie = "SELECT * FROM projet_final.new_table WHERE centreExamen LIKE '%Polynesie%';";
-const sqlQuery_Asie = "SELECT * FROM projet_final.new_table WHERE centreExamen LIKE '%Asie%';";$
+const sqlQuery_Asie = "SELECT * FROM projet_final.new_table WHERE centreExamen LIKE '%Asie%';"
 const sqlQuery_Antille = "SELECT * FROM projet_final.new_table WHERE centreExamen LIKE '%Antille%';";
 
 
