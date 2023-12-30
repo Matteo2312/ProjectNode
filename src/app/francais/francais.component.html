@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sujets de Bac</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script async src="../request.js"></script>
 </head>
 
 <body>
@@ -17,14 +18,16 @@
       <p>Bienvenue sur notre plateforme dédiée à la préparation aux examens du baccalauréat.</p>
       <p>Trouvez ici une collection complète de sujets classés par matière pour vous aider à vous préparer
         efficacement.</p>
-      <p>Vous pourrez :</p>
-      <ul class="text-left">
-        <li>Visualiser des annales de bac</li>
-        <li>Vous entraîner en testant vos compétences</li>
-        <li>Avoir accès à plein de matières différentes</li>
-        <li>Vous préparer pour vos examens</li>
-        <li>Et bien plus encore !</li>
-      </ul>
+      <p>Voici les sujets:</p>
+      <script>
+        // Appel de la fonction executeQuery après le chargement de la page
+        document.addEventListener('DOMContentLoaded', function() {
+            executeQuery(sqlQuery_francais);
+        });
+    </script>
+      <!--document.addEventListener('DOMContentLoaded', function() {
+        executeQuery(sqlQuery_francais);}); -->
+
       <img src="https://lycee-marchal.com/sites/default/files/imce/spe-maths-image.jpg" alt="Sujets de Bac"
         class="img-fluid my-3">
     </div>

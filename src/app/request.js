@@ -41,6 +41,7 @@ function executeQuery(sqlQuery, callback) {
     });
 }
 
+
 const sqlQuery_all  = "SELECT * FROM revision.sujets_corrections ;";
 
 const sqlQuery_math = "SELECT * FROM revision.sujets_corrections WHERE matiere LIKE '%math%';";
@@ -57,6 +58,7 @@ const sqlQuery_2023 = "SELECT * FROM revision.sujets_corrections WHERE annee = 2
 minDifficulte = 2;
 maxDifficulte = 4;
 const sqlQuery_difficulty = "SELECT * FROM revision.sujets_corrections WHERE difficulte BETWEEN ${minDifficulte} AND ${maxDifficulte};";
+
 
 sujetId = 6;
 const sqlQuery_id = "SELECT * FROM revision.sujets_corrections WHERE id = ${sujetId};";
