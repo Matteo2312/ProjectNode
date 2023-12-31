@@ -3,11 +3,12 @@
 Welcome to our Baccalaurat revision site! 
 This platform provides exam subjects for various courses to help students prepare for their baccalaurat exams.
 
-# Group Github Pseudos:
+## Group Github Pseudos:
 
 Aurore Pistono : AurorePDSA
-Matteo : Matteo2312
+Matteo Lusardi : Matteo2312
 Jean-Baptiste Martin : Jeatic
+Keziah Tabassomi
 
 ## Features
 
