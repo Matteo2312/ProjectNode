@@ -61,3 +61,19 @@ Before you begin, ensure you have the following installed:
 
    ```bash
    ./frontend> npm start
+
+# Screenshots
+
+![image](https://github.com/Matteo2312/ProjectNode/assets/122347817/4a99b402-ba38-46ce-81e1-1c2ae99464a5)
+![image](https://github.com/Matteo2312/ProjectNode/assets/122347817/c7783b09-5c65-4e96-b82f-b12571173f3d)
+![image](https://github.com/Matteo2312/ProjectNode/assets/122347817/ff6b7076-5f46-4bab-961b-68c8840bec8c)
+![image](https://github.com/Matteo2312/ProjectNode/assets/122347817/28b623db-f1f5-4099-9ac1-86fc7a1f67a5)
+![image](https://github.com/Matteo2312/ProjectNode/assets/122347817/401183ed-be10-4e69-8dd5-bbf194d800b6)
+![image](https://github.com/Matteo2312/ProjectNode/assets/122347817/acdfcf79-31b8-4ead-be4c-96c2f9e19aea)
+
+
+
+
+
+
+
