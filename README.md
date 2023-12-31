@@ -5,10 +5,10 @@ This platform provides exam subjects for various courses to help students prepar
 
 ## Group Github Pseudos:
 
-Aurore Pistono : AurorePDSA
-Matteo Lusardi : Matteo2312
-Jean-Baptiste Martin : Jeatic
-Keziah Tabassomi
+- Aurore Pistono : AurorePDSA
+- Matteo Lusardi : Matteo2312
+- Jean-Baptiste Martin : Jeatic
+- Keziah Tabassomi
 
 ## Features
 
